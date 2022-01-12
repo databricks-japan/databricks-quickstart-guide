@@ -1,2 +1,7 @@
-# databricks-quickstart-guide
-Sample source codes explained in Databricks Quickstart Guide
+# Databricksとは？
+
+- 背景
+- コンセプト
+- アーキテクチャ
+- 主要機能
+- コスト
