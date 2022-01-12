@@ -1,2 +1,4 @@
-# databricks-quickstart-guide
-Sample source codes explained in Databricks Quickstart Guide
+# ツール連携
+
+- Repos
+- Partner Connect
